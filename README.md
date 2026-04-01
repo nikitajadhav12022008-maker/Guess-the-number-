@@ -1,7 +1,8 @@
-##🎯Guess The Number Game (Python):
+## 🎯Guess The Number Game (Python):
 
 A simple and fun command-line number guessing game built using Python.
 The program generates a random number, and the user has to guess it with helpful hints until they succeed or quit.
+
 ---
 
 ###🚀Features:

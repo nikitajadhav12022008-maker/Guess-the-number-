@@ -16,11 +16,12 @@ The program generates a random number, and the user has to guess it with helpful
 
 ---
 
-###🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 
--Python 3
--Random module
--Basic loops and conditional statements
+- Python 3
+- Random module
+- Basic loops and conditional statements
+
 ---
 
 ###📌 How It Works:

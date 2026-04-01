@@ -5,14 +5,15 @@ The program generates a random number, and the user has to guess it with helpful
 
 ---
 
-###🚀Features:
+## 🚀Features:
 
--Random number generation using Python
--User-friendly input prompts
--Hints provided: Too small / Too big
--Option to quit anytime by pressing Q
--Infinite attempts until the correct guess
--Beginner-friendly logic and clean code
+- Random number generation using Python
+- User-friendly input prompts
+- Hints provided: Too small / Too big
+- Option to quit anytime by pressing Q
+- Infinite attempts until the correct guess
+- Beginner-friendly logic and clean code
+
 ---
 
 ###🛠️ Technologies Used:

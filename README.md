@@ -44,17 +44,21 @@ The program generates a random number, and the user has to guess it with helpful
 
 ----
 
-###▶How to run:
-Make sure pyhton is installed
-clone the repository or download the file
-Run the program:
+## ▶How to run:
+
+- Make sure pyhton is installed
+- clone the repository or download the file
+- Run the program:
 ```bash
 python guess_the_number.py
+
 ---
 
-##👩‍💻Author:
+## 👩‍💻Author:
 
 Nikita Jadhav
+
+---
 
 
 

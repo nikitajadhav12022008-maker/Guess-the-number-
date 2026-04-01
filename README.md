@@ -36,12 +36,12 @@ The program generates a random number, and the user has to guess it with helpful
 
 ---
 
-###📁Project structure:
+## 📁Project structure:
 
-guess the number/
-|
-|_______guess_the_number.py
-|_______README.md
+- guess the number/
+- |_______guess_the_number.py
+- |_______README.md
+
 ----
 
 ###▶How to run:

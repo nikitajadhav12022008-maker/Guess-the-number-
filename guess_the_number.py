@@ -9,7 +9,6 @@ while True:
     #using conditional statements for checking whether the target is greater or smaller:
     if(userchoice == "Q"):
         break
-
     userchoice = int(userchoice)
     if(userchoice == target):
         print("success!! correct guess.....")

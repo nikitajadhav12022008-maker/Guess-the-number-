@@ -1,4 +1,4 @@
-#Python based GUESS THE NUMBER:
+#Python based :
 #importing random:
 import random
 target = random.randint(1,100)

@@ -16,7 +16,7 @@ while True:
         print("number is too small take a bigger guess......")
     else:
         print("number is too big take a smaller guess...")
-#if guessed is correct print game over:
+#if guessed correct print game over:
 print("GAME OVER!!")
 
 

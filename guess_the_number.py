@@ -1,4 +1,4 @@
-#Python based :
+#Python based number guessing game:
 #importing random:
 import random
 target = random.randint(1,100)

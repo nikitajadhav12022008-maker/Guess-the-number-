@@ -2,7 +2,6 @@
 #importing random:
 import random
 target = random.randint(1,100)
-
 #using loops:
 while True:
     userchoice = int(input("enter the number or QUIT(Q):"))

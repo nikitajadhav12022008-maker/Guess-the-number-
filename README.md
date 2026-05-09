@@ -54,8 +54,7 @@ python guess_the_number.py
 
 ---
 
-## 👩‍💻Author:
-
+##👩‍💻Author:
 Nikita Jadhav
 
 ---
